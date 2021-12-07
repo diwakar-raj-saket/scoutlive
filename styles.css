@@ -1,0 +1,170 @@
+#orr1c1{
+	text-align: left;
+}
+.c1{
+	min-height: 22.5rem;
+	margin:12px;
+	padding:10px,30px,10px,40px;
+	border-radius: 1rem;
+	background-color: #FFFFFF;
+}
+.c2{
+	min-height: 18rem;
+	margin:6px;
+	padding:10px;
+	border-radius: 1rem;
+	background-color:#FFFFFF;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.c3{
+	height: auto;
+	
+	margin:6px,12px,6px,0;
+	border-radius: 1rem;
+}
+.w{
+	font-size: 2rem;
+	font-weight: 600;
+}
+.r1,.r4{
+	display:flex;
+	flex-direction: row;
+	margin-left:40px;
+	margin-top:20px;
+}
+.r2{
+	display: flex;
+	justify-content:space-around;
+	flex-direction: row;
+	flex-wrap: wrap; 
+}
+.r3{
+	display: flex;
+	justify-content:space-around;
+	flex-direction: row;
+    flex-wrap: wrap;
+
+}
+#orr2c2{
+	font-size: 5rem;
+	font-weight: 600;
+}
+#mc{
+	margin-top: 50px;
+	font-weight:600;
+	color: rgb(109, 105, 105);
+}
+.imagel{
+	margin-top: 50px;
+	min-width:220px;
+	height: 130px;
+	border-radius: 10px;
+}
+#mct{
+	margin-left: 10px;
+	color: black;
+}
+#ri{
+	margin-right: 10px;
+	color:rgb(16, 118, 235);
+}
+.th{
+	margin-right: 10px;
+	font-weight:600;
+}
+.th1:hover{
+   color:rgb(16, 118, 235);
+}
+.sb{
+	margin: 20px;
+}
+.sb1{
+	border-radius:.8rem;
+	height: 30px;
+	width: 210px;
+	background-color: #F5F5F5;
+	border: none;
+	padding: 20px;
+}
+.imb1{
+	width:6rem;
+	height:6rem;
+	margin-top:1rem;
+	margin-bottom: 1rem;
+}
+.imb2{
+	width:20rem;
+	height:20rem;
+}
+.ws{
+	font-size:6rem;
+	font-weight: 600;
+}
+#wsp{
+   margin-top:2rem;
+   margin-bottom: 2rem;
+}
+.wsl{
+	font-size:2rem;
+	font-weight: 600;
+}
+#or{
+	background-color: #F5F5F5;
+}
+.hu{
+	margin-top:35px;
+}
+.huv{
+	margin-top: 35px;
+	font-weight: 600;
+}
+#huv{
+	color: black;
+	font-size: 6rem;
+	font-weight: 600;
+}
+#hus{
+	color: darkgray;
+	margin-left: 10px;
+	font-size: 2rem;
+}
+.st{
+	font-weight: 600;
+	color:darkgrey
+}
+#stv{
+	color:rgb(54, 146, 233) ;
+	margin-left: 10px;
+}
+#stv1{
+	color:rgb(248, 87, 12) ;
+	margin-left: 10px;
+}
+#stv2{
+	color:rgb(223, 11, 11) ;
+	margin-left: 10px;
+}
+.uvi{
+	width:300px;
+	height: 200px;
+}
+.up1{
+	padding-top: 10px;
+	color:white;
+	font-size: 4rem;
+	background-color: rgb(230, 189, 7);
+	border-radius: 50%;
+}
+.ss{
+	margin-top: 20px;
+}
+.up11{
+	font-size: 2rem;
+	font-weight: 600;
+}
+.up12{
+	font-size: 1.5rem;
+	color: darkgrey;
+}
